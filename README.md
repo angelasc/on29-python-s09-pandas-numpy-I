@@ -2,9 +2,34 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Tratamento de dados utilizando pandas e numpy
+# Reprograma | Bootcamp de Análise de Dados
+## 🚀 Exercícios para Casa 
+Turma Online on29 | Semana 09 | 2024 | Professora Daniele Junior
 
-Turma Online | Semana 9 | 2024 | Professora Daniele Junior
+Este repositório contém os exercícios desenvolvidos durante a **Semana 09** do curso de Análise de Dados da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.  
+
+## 📌 Descrição
+Nesta semana, exploramos as bibliotecas **Pandas e NumPy**, que são ferramentas poderosas para trabalhar com dados em Python. O objetivo foi aprender a manipular, transformar e analisar dados de maneira eficiente, utilizando DataFrames e Arrays, além de realizar operações matemáticas e estatísticas com o NumPy.
+
+## 🎯 Objetivos do projeto
+- Realizar manipulação de dados utilizando a biblioteca Pandas, incluindo operações de filtro, agregação e transformação.
+- Utilizar NumPy para operações matemáticas e estatísticas em arrays e matrizes.
+- Criar DataFrames para representar dados e aplicar operações de análise de dados.
+
+## 📝 Conteúdo do Repositório  
+O repositório está organizado da seguinte maneira:
+- banco_de_dados.db: Arquivo do banco de dados gerado e manipulado pelo código Python.
+- main.py: Código principal onde as operações do banco de dados são realizadas.
+- requirements.txt: Dependências do projeto (caso existam).  
+
+## 🖥️ Tecnologias utilizadas
+- Python: Linguagem de programação utilizada para a manipulação de dados.
+- Pandas: Biblioteca para manipulação e análise de dados, com suporte a estruturas de dados como DataFrames.
+- NumPy: Biblioteca para operações matemáticas e estatísticas em arrays e matrizes multidimensionais.
+
+
+---
+
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
